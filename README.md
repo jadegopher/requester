@@ -1,6 +1,6 @@
 # Requester
 
-CLI tool that has ability to send requests to http and print MD5 hashes of responses.
+CLI tool that has ability to send requests to http servers and print MD5 hashes of responses.
 
 ## How to build
 
